@@ -10,6 +10,6 @@
 1. Copy `.env.example` → `.env`
 2. Chỉnh `MONGODB_URI`
 3. `npm install`
-4. `npm run dev`
+4. `node app.js`
 5. Mở [http://localhost:3000](http://localhost:3000)
 6. Swagger: [http://localhost:3000/api-docs](http://localhost:3000/api-docs)
